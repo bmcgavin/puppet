@@ -1,0 +1,4 @@
+<VirtualHost *:80>
+    ServerName stage.cardsounds.net
+    DocumentRoot /var/www/stage.cardsounds.net
+</VirtualHost>
